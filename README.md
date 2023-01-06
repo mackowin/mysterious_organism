@@ -1,5 +1,5 @@
 # :cyclone: Mysterious Organism #
-CodeCademy Project: simulates DNA variations with JavaScript
+CodeCademy Project: Simulates DNA variations with JavaScript
 
 ## Table of Contents ##
 * [General Info](#General-Info)
